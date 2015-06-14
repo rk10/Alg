@@ -1,0 +1,5 @@
+C:\Projects\Alg\AlgTests\bin\Debug\AlgTests.dll
+C:\Projects\Alg\AlgTests\bin\Debug\AlgTests.pdb
+C:\Projects\Alg\AlgTests\obj\Debug\AlgTests.csprojResolveAssemblyReference.cache
+C:\Projects\Alg\AlgTests\obj\Debug\AlgTests.dll
+C:\Projects\Alg\AlgTests\obj\Debug\AlgTests.pdb

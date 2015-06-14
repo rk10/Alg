@@ -32,7 +32,6 @@ namespace Alg
                     if (v >= things[n - 1].volume)
                         CostGraph[v, n] = 
                             Math.Max(CostGraph[v, n - 1], CostGraph[v - things[n - 1].volume, n - 1] + things[n - 1].cost); 
-
         }
 
         public List<Thing> findThingsSet() 

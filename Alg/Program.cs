@@ -15,7 +15,6 @@ namespace Alg
         {
             var task = AsyncMethod(this);
 
-            
             Console.WriteLine( "end" );
             task.Result;
             for (; ; ) ;
